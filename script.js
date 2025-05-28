@@ -1,0 +1,1 @@
+console = "Welcome to netflix clone website"
